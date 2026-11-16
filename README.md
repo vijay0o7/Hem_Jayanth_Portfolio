@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hem Jayanth R. – Professional Portfolio Website & Downloadable Dossier
 
 An editorial-grade, modern, and fully responsive personal portfolio website and downloadable PDF dossier for **Hem Jayanth R.**
@@ -169,3 +170,7 @@ The production build in `dist/` is completely static and can be deployed anywher
 
 ---
 *Dossier compiled with verified original documents. All rights reserved.*
+=======
+# Hem_Jayanth_Portfolio
+Personal &amp; Professional Portfolio
+>>>>>>> 02c9774b1696d707d44d0605d76d3406930e5299
